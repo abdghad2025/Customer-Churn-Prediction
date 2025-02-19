@@ -61,6 +61,3 @@ You can install the necessary libraries using pip
    cd Customer-Churn-Prediction
 
    jupyter notebook CustomerChurn.ipynb
-
-
-
