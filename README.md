@@ -57,5 +57,10 @@ You can install the necessary libraries using pip
    
    ```bash
    git clone https://github.com/abdghad2025/Customer-Churn-Prediction.git
+   
+   cd Customer-Churn-Prediction
+
+   jupyter notebook CustomerChurn.ipynb
+
 
 
